@@ -1,3 +1,6 @@
-button {
+body {
+  background-color: #39311D;
+}
+body button {
   border: 1px solid orange;
 }/*# sourceMappingURL=styles.css.map */
